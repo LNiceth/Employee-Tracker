@@ -1,5 +1,4 @@
-# employee-management-system
-
+# Employee-Tacker
 ## Description
 
 This is a CLI application that features a persistent database powered by MySQL of a company's various employees, roles, and departments. Users can interact with the application in various ways through user input to add to or modify the database.
@@ -49,4 +48,4 @@ This project is licensed under the MIT license.
 
 ## Links
 
-A demo of the application can be viewed [here]().
+A demo of the application can be viewed [here](https://youtu.be/qVvEvrVmcYk).
